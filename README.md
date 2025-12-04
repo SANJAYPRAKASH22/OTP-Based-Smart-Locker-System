@@ -12,3 +12,4 @@ OTP-Based-Smart-Locker-System/
 │
 ├── README.md
 └── LICENSE
+![Hardware Setup](images/hardware_setup.jpg)
